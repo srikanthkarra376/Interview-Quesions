@@ -156,7 +156,7 @@ Front end developer interview tips:
 
   2) Tell me about yourself means conclude relate to current position
 
-  3) Dont badmark about old company - I am lot more talent and I can contribute , And an so possionate about technology 
+  3) Dont badmark about old company - I am lot more talent and I can contribute , And an so passionate about technology 
 
   4) Do expect to talk about projects 
 
