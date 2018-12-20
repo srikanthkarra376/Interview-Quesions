@@ -4,15 +4,16 @@ Can You describe of your work flow of any project?
 
 Can you tell me different b/w CSS Resetting and Normalizing?
 
-   Ans: CSS Resetting:default styling that comes with browser
+    Ans: CSS Resetting:default styling that comes with browser
 
         CSS Normalizing: Make Sure Rendering Works in all browsers 
 
 
-What is inline and Block Level elements?
+What are inline and Block Level elements?
 
-Answer: Inline elements only accepts marginleft, margin right, paddings
- Describe CSS Box Model?
+     Answer: Inline elements only accepts marginleft, margin right, paddings
+     
+Describe CSS Box Model?
 
 What is specificity in styling in CSS?
 
@@ -34,7 +35,8 @@ Describe BFC(Block Formatting Context) and how it works.
 What are the various clearing techniques and which is appropriate for what context?
 
 Explain CSS sprites, and how you would implement them on a page or site.
-  Ans: CSS sprites is Merging multiple images into a single image, It reduces the amount of web requestes and increases page loading speed.
+
+      Ans: CSS sprites is Merging multiple images into a single image, It reduces the amount of web requestes and increases page                    loading speed.
 
 What are your favourite image replacement techniques and which do you use when?
 
@@ -91,7 +93,7 @@ Is there any reason you'd want to use translate() instead of absolute positionin
 
 How to Build Triangle with CSS?
 
-   Ans : We can make by using border property of css.
+    Ans : We can make by using border property of css.
 
 What are pseudo elements in CSS?
 
@@ -99,12 +101,12 @@ What are After and before in CSS?
 
 What are the data Attributes in CSS?
   
-   Ans: Data Attributes are used to store cutom data directly inside HTML tags, They are easily accessible from css and JS
+    Ans: Data Attributes are used to store cutom data directly inside HTML tags, They are easily accessible from css and JS
 
 
 what is difference b/w session storage and local storage ?
 
-   Ans: SessionStorage: It is avalible only when browser tab is opened 
+     Ans: SessionStorage: It is avalible only when browser tab is opened 
        
         localStorage : It servives on closing and reopening a browser 
 
